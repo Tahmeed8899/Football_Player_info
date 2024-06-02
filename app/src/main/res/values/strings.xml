@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMediaApp</string>
+    <string name="player_image_desc">Player Image</string>
+    <string name="play_highlights">Play Highlights</string>
+</resources>
